@@ -16,6 +16,6 @@
         flex-direction: column;
         margin-left: 16px;
         width: 186px;
-        height: 310px;
+        row-gap: 48px;
     }
 }
